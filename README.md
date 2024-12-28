@@ -2,7 +2,7 @@
 
 Bu çalışma Gazi Üniversitesi Bilişim Sistemleri 2024 - 2025 yılı 1. Dönem Veri Madenciliği Dersi kapsamında yapılmıştır. Amaç pratik yapmak ve öğrenilen bilgileri pekiştirmektir.
 
-Veri seti ise 2019 yılına ait Airbnb evlerinin bilgilerini içerir. 
+Temel seviyede bir çalışma yapılacağından 2019 yılına ait Airbnb evlerinin bilgilerini içeren veri seti seçilmiştir.
 
 <span style="color: yellow;"> Veri seti bir CSV dosyasında yer alır. (market_analysis_2019.csv) </span>
 
