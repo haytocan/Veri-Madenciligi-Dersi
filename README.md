@@ -269,5 +269,5 @@ Bu özellikler, makine öğrenimi modeli için bağımlı değişkeni etkileyen 
 Özetle, "revenue" sütunu ile belirgin ilişkiye sahip olan yukarıdaki değişkenler, modelde kullanılacak özellikler olarak seçilir ve diğer özellikler veri setinden çıkarılır. Bu şekilde, model başarısını artıracak, daha anlamlı ve etkili bir veri seti elde edilir.
 
 <span style="color: yellow;">
-Seçilen özellikler ile yeni bir dataframe oluşturulur ve bu dataframe daha sonrasında makine öğrenimi modellerinde kullanmak için veri "market_analysis_2019_for_ML" adlı yeni bir CSV dosyasına kaydedilir.
+Seçilen özellikler ile yeni bir dataframe oluşturulur ve bu dataframe daha sonrasında makine öğrenimi modellerinde kullanmak için veri "market_analysis_2019" adlı yeni bir CSV dosyasına kaydedilir.
 </span>
