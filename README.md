@@ -1,6 +1,8 @@
 # VERİ SETİ 
 
-Bu veri seti, 2019 yılına ait Airbnb evlerinin bilgilerini içerir. 
+Bu çalışma 2024 -2025 yılı Veri Madenciliği Dersi kapsamında yapılmıştır. Amaç pratik yapmak ve öğrenilen bilgileri pekiştirmektir.
+
+Veri seti ise 2019 yılına ait Airbnb evlerinin bilgilerini içerir. 
 
 <span style="color: yellow;"> Veri seti bir CSV dosyasında yer alır. (market_analysis_2019.csv) </span>
 
