@@ -130,7 +130,7 @@ Aaşağıdaki sütunlar için bu işlemi yapmanın daha mantıklı olacağını 
 * length stay: 671
 
     - Öncelikle sütunun kutu grafiği çizdirilir.
-    - ![Revenue Kutu Grafiği](images/revenue_kutu_grafigi.PNG)
+    - ![Revenue Kutu Grafiği](revenue_kutu_grafigi.PNG)
 
     - "revenue" sütununa ait bu kutu grafiğinde IQR, kutunun alt ve üst sınırlarını belirleyen Q1 ve Q3 değerleri arasındaki uzaklığı temsil eder. daireler aykırı değerleri ifade eder. Grafikteki daireler aykırı değerleri ifade eder.
 
@@ -232,7 +232,7 @@ Bir veri setindeki sayısal değişkenler arasındaki ilişkileri gösteren bir 
 
 Elde edilen korelasyon matrisi:
 
-![Korelasyon Matrisi](images/korelasyon_matrisi.png)
+![Korelasyon Matrisi](korelasyon_matrisi.png)
 
 Korelasyon matrisindeki sütunlar arasındaki korelasyon değerlerinin 1'e ve -1'e yaklaşması, sütunlar arasında pozitif ve negatif ilişkinin yüksek olmasını gösterir.
 
