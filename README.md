@@ -2,7 +2,7 @@
 
 Bu veri seti, 2019 yılına ait Airbnb evlerinin bilgilerini içerir. 
 
-<span style="color: yellow;"> Veri seti bir CSV dosyasında yer alır. (dataset/clean_market_analysis_2019.csv) </span>
+<span style="color: yellow;"> Veri seti bir CSV dosyasında yer alır. (market_analysis_2019.csv) </span>
 
 ### CSV Dosyasındaki Sütunlar ve Anlamları
 
