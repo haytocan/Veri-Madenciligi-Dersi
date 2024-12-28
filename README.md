@@ -1,4 +1,4 @@
-# VERİ SETİ 
+# GİRİŞ  & VERİ SETİ AÇIKLAMASI 
 
 Bu çalışma Gazi Üniversitesi Bilişim Sistemleri 2024 - 2025 yılı 1. Dönem, Veri Madenciliği Dersi kapsamında yapılmıştır. 
 
